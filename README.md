@@ -1,4 +1,4 @@
-# ono-tebe-nado-fd
+# ono-tebe-nado
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -11,7 +11,7 @@
 
 ## 🚀 Демо
 
-[Посмотреть проект на Vercel](https://ono-tebe-nado-fd.vercel.app)
+[Посмотреть проект на Vercel](https://ono-tebe-nado.vercel.app)
 
 ## 🛠️ Используемые технологии
 
@@ -32,7 +32,7 @@
 ## 📦 Запуск проекта локально
 
 ```bash
-git clone https://github.com/creator-of-masterpieces/ono-tebe-nado-fd.git
-cd ono-tebe-nado-fd
+git clone https://github.com/creator-of-masterpieces/ono-tebe-nado.git
+cd ono-tebe-nado
 npm install
 npm run start
